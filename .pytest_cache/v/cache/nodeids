@@ -1,6 +1,0 @@
-[
-  "tests/booking_test.py::TestBooking::()::test_search_flight[chrome-http://blazedemo.com/]", 
-  "tests/booking_test.py::TestBooking::()::test_choose_any_flight[chrome]", 
-  "tests/booking_test.py::TestBooking::()::test_search_flight[firefox-http://blazedemo.com/]", 
-  "tests/booking_test.py::TestBooking::()::test_choose_any_flight[firefox]"
-]

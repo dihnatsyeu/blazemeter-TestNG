@@ -1,6 +1,0 @@
-{
-  "tests/demo_test.py::test_open": true, 
-  "tests/demo_test.py::test_open2": true, 
-  "tests/tbooking_test.py::TestBooking::()::test_search_flight": true, 
-  "tests/tbooking_test.py::TestBooking::()::test_search_flight[chrome-h]": true
-}
